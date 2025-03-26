@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="8b4fae2b8318e21035045b65eeaad34e" sys_domain="global" table="x_1459741_device_0_device_inventory_storage" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_device_in_progress</element>
+            <position>0</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-21 16:50:19</sys_created_on>
+            <sys_id>174fae2b8318e21035045b65eeaad35c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="Default view">8b4fae2b8318e21035045b65eeaad34e</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-21 16:50:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-21 16:50:19</sys_created_on>
+            <sys_id>9b4fae2b8318e21035045b65eeaad35c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="Default view">8b4fae2b8318e21035045b65eeaad34e</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-21 16:50:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1459741_device_0_device_inventory_storage</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-21 16:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b4fae2b8318e21035045b65eeaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459741_device_0_device_inventory_storage</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+            <sys_update_name>sys_ui_section_8b4fae2b8318e21035045b65eeaad34e</sys_update_name>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-21 16:50:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</application>
+        <file_path/>
+        <instance_id>fc698e05db9af11cebdd2a59139619a0</instance_id>
+        <instance_name>dev201465</instance_name>
+        <name>sys_ui_section_8b4fae2b8318e21035045b65eeaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="8b4fae2b8318e21035045b65eeaad34e" sys_domain="global" table="x_1459741_device_0_device_inventory_storage" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_device_in_progress</element><position>0</position><sys_created_by>tarun_18</sys_created_by><sys_created_on>2025-03-21 16:50:19</sys_created_on><sys_id>174fae2b8318e21035045b65eeaad35c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="Default view">8b4fae2b8318e21035045b65eeaad34e</sys_ui_section><sys_updated_by>tarun_18</sys_updated_by><sys_updated_on>2025-03-21 16:50:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>tarun_18</sys_created_by><sys_created_on>2025-03-21 16:50:19</sys_created_on><sys_id>9b4fae2b8318e21035045b65eeaad35c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="Default view">8b4fae2b8318e21035045b65eeaad34e</sys_ui_section><sys_updated_by>tarun_18</sys_updated_by><sys_updated_on>2025-03-21 16:50:19</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1459741_device_0_device_inventory_storage</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>tarun_18</sys_created_by><sys_created_on>2025-03-21 16:50:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b4fae2b8318e21035045b65eeaad34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1459741_device_0_device_inventory_storage</sys_name><sys_overrides/><sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package><sys_policy/><sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope><sys_update_name>sys_ui_section_8b4fae2b8318e21035045b65eeaad34e</sys_update_name><sys_updated_by>tarun_18</sys_updated_by><sys_updated_on>2025-03-21 16:50:18</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-477865709</payload_hash>
+        <record_name>Device Inventory Storage</record_name>
+        <reverted_from/>
+        <source>e06d66a78318e21035045b65eeaad3eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-21 16:50:19</sys_created_on>
+        <sys_id>134fae2b8318e21035045b65eeaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195b99cdb100000001</sys_recorded_at>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-21 16:50:19</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>df4fae2bc018e210e56d32301029115d</update_guid>
+        <update_guid_history>df4fae2bc018e210e56d32301029115d:-477865709</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-21 16:51:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6c932802cc84444097f2c8b6454e00a4</sys_id>
+        <sys_metadata>8b4fae2b8318e21035045b65eeaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_parent display_value="Device Inventory Storage">52adeaa78318e21035045b65eeaad379</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_scope_delete display_value="">29865a9a179f492c88fc0f4640d785e4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8b4fae2b8318e21035045b65eeaad34e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8b4fae2b8318e21035045b65eeaad34e">134fae2b8318e21035045b65eeaad36b</sys_update_version>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-21 16:51:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

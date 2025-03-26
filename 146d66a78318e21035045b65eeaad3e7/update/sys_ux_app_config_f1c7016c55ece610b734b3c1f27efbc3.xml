@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>This workspace to show the details in Device inventory.</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Device Inventory App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:51:58</sys_created_on>
+        <sys_id>f1c7016c55ece610b734b3c1f27efbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Inventory App Config</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>sys_ux_app_config_f1c7016c55ece610b734b3c1f27efbc3</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:51:58</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1c7016c55ece610b734b3c1f27efbc3"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-21 16:43:15</sys_created_on>
+        <sys_id>a3ad6ea78318e21035045b65eeaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459741_device_0_device_inventory_storage.x_1459741_device_0.servicedesk_admin</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_security_acl display_value="x_1459741_device_0_device_inventory_storage">afad2ea78318e21035045b65eeaad3fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a3ad6ea78318e21035045b65eeaad301</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-21 16:43:15</sys_updated_on>
+        <sys_user_role display_value="x_1459741_device_0.servicedesk_admin" name="x_1459741_device_0.servicedesk_admin">a86d66a78318e21035045b65eeaad3f0</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

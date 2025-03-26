@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="52adeaa78318e21035045b65eeaad379" label="Device Inventory Storage" max_length="40" name="x_1459741_device_0_device_inventory_storage" text_index="true" type="collection">
+        <element attributes="ref_ac_columns=u_device_name" display="true" label="Device type" max_length="40" name="u_device_name" type="string"/>
+        <element label="Device in progress" max_length="40" name="u_device_in_progress" type="string"/>
+        <element label="Total Quantity" max_length="40" name="u_total_quantity" type="string"/>
+    </element>
+</database>

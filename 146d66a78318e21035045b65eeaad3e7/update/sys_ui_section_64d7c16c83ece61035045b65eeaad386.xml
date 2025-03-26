@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="64d7c16c83ece61035045b65eeaad386" sys_domain="global" table="x_1459741_device_0_device_inventory_storage" version="3" view="workspace-device-inventory-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_device_name</element>
+            <position>0</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-24 11:52:08</sys_created_on>
+            <sys_id>a8d7c16c83ece61035045b65eeaad388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="b9c7016c66ece610f4bc10aff57a20b9">64d7c16c83ece61035045b65eeaad386</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-24 11:52:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_device_in_progress</element>
+            <position>1</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-24 11:52:08</sys_created_on>
+            <sys_id>20d7c16c83ece61035045b65eeaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="b9c7016c66ece610f4bc10aff57a20b9">64d7c16c83ece61035045b65eeaad386</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-24 11:52:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-24 11:52:08</sys_created_on>
+            <sys_id>28d7c16c83ece61035045b65eeaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="b9c7016c66ece610f4bc10aff57a20b9">64d7c16c83ece61035045b65eeaad386</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-24 11:52:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_quantity</element>
+            <position>3</position>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-24 11:52:08</sys_created_on>
+            <sys_id>28d7c16c83ece61035045b65eeaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459741_device_0_device_inventory_storage" sys_domain="global" view="b9c7016c66ece610f4bc10aff57a20b9">64d7c16c83ece61035045b65eeaad386</sys_ui_section>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-24 11:52:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1459741_device_0_device_inventory_storage</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tarun_18</sys_created_by>
+            <sys_created_on>2025-03-24 11:52:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64d7c16c83ece61035045b65eeaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459741_device_0_device_inventory_storage</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+            <sys_update_name>sys_ui_section_64d7c16c83ece61035045b65eeaad386</sys_update_name>
+            <sys_updated_by>tarun_18</sys_updated_by>
+            <sys_updated_on>2025-03-24 11:52:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Device Inventory 0" name="workspace-device-inventory-0">b9c7016c66ece610f4bc10aff57a20b9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

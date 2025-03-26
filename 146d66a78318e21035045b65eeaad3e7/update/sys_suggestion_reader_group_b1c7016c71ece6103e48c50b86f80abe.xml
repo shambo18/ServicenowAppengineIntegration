@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Device Inventory - Workspace Search">b5c7016ca9ece6106d2d351205544dba</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:51:59</sys_created_on>
+        <sys_id>b1c7016c71ece6103e48c50b86f80abe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_b1c7016c71ece6103e48c50b86f80abe</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:51:59</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

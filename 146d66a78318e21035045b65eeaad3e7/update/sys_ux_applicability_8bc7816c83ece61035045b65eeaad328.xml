@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1459741_device_0.Audience for app device-inventory</api_name>
+        <description/>
+        <name>Audience for app device-inventory</name>
+        <role_names/>
+        <roles name="x_1459741_device_0.servicedesk_admin">a86d66a78318e21035045b65eeaad3f0</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:52:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8bc7816c83ece61035045b65eeaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app device-inventory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>sys_ux_applicability_8bc7816c83ece61035045b65eeaad328</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:52:02</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

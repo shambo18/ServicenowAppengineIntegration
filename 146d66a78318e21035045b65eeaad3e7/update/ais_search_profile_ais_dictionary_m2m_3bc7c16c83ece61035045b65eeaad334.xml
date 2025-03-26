@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1459741_device_0_device_inventory_search_profile_default_spell_check_dictionary">33c7c16c83ece61035045b65eeaad331</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="device-inventory Search Profile">7dc7016ce8ece610385cf33aa95a66c3</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:52:05</sys_created_on>
+        <sys_id>3bc7c16c83ece61035045b65eeaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459741_device_0_device_inventory_search_profile_default_spell_check_dictionary.device-inventory Search Profile</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_3bc7c16c83ece61035045b65eeaad334</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:52:05</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

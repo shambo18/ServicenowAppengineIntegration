@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1459741_device_0.servicedesk_admin" name="x_1459741_device_0.servicedesk_admin">a86d66a78318e21035045b65eeaad3f0</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:52:04</sys_created_on>
+        <sys_id>afc7816c83ece61035045b65eeaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1459741_device_0.servicedesk_admin</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>sys_user_role_contains_afc7816c83ece61035045b65eeaad3ee</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:52:04</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

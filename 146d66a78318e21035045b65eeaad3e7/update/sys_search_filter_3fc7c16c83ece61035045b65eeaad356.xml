@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Tasks - Requested Items">9ccfcfe1531201107f03ddeeff7b1209</ais_search_source>
+        <label>Requested Item</label>
+        <name>Tasks - Requested Items</name>
+        <order>200</order>
+        <search_context_config display_value="Device Inventory AI Search Configuration">3dc7016c80ece61067121574dfd0b8ba</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>tarun_18</sys_created_by>
+        <sys_created_on>2025-03-24 11:52:05</sys_created_on>
+        <sys_id>3fc7c16c83ece61035045b65eeaad356</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks - Requested Items</sys_name>
+        <sys_package display_value="Device Inventory" source="x_1459741_device_0">146d66a78318e21035045b65eeaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Inventory">146d66a78318e21035045b65eeaad3e7</sys_scope>
+        <sys_update_name>sys_search_filter_3fc7c16c83ece61035045b65eeaad356</sys_update_name>
+        <sys_updated_by>tarun_18</sys_updated_by>
+        <sys_updated_on>2025-03-24 11:52:05</sys_updated_on>
+    </sys_search_filter>
+</record_update>
